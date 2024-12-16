@@ -14,8 +14,3 @@
 
 ### v0.5 , Melhoria na geração de chaves , e organização no codigo , otmização na parte de menu , criada uma pasta com nome style para a comunicação do usuario com o programa , e alteração do visual mais facil .
 ### Adição tambem de um arquivo para salvar as chaves encontradas quando ela for encontrada 
-
-![image](https://github.com/user-attachments/assets/23453539-af6f-4740-a64f-94e46fe18b76)
-### (No kali_linux o programa rodou com mais +20k de chaves de desempenho carteira 67 Bits.)
-
-
