@@ -14,3 +14,4 @@
 
 ### v0.5 , Melhoria na geração de chaves , e organização no codigo , otmização na parte de menu , criada uma pasta com nome style para a comunicação do usuario com o programa , e alteração do visual mais facil .
 ### Adição tambem de um arquivo para salvar as chaves encontradas quando ela for encontrada 
+
